@@ -44,11 +44,11 @@ const Navbar = () => {
   return (
     <nav className="p-6 md:p-4 font-geist select-none">
       <div className="max-w-[30rem] mx-auto flex items-center justify-between">
-        <NavLink href="/">Sarthak Chauhan</NavLink>
+        <NavLink href="/">Marl Jonson</NavLink>
         {pathname !== "/" ? (
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com/Sarthakischauhan"
+              href="https://github.com/marljonson"
               target="_blank"
               rel="noreferrer"
               className={iconLinkClass}
@@ -57,7 +57,7 @@ const Navbar = () => {
               <Github />
             </a>
             <a
-              href="https://x.com/sarchauhann"
+              href="https://x.com/marljonson"
               target="_blank"
               rel="noreferrer"
               className={iconLinkClass}
@@ -66,7 +66,7 @@ const Navbar = () => {
               <XIcon />
             </a>
             <a
-              href="mailto:sarthakchauhann@gmail.com"
+              href="mailto:marl.jonson@comcast.net"
               className={iconLinkClass}
               aria-label="Email"
             >

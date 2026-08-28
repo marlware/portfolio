@@ -36,7 +36,7 @@ export default function Home() {
         >
           <div className="flex justify-start gap-3 items-end cursor-pointer">
             <div className="rounded-sm overflow-hidden w-24 h-24 relative">
-              <Image src="/D.png" fill alt="my face3" priority />
+              <Image src="/marl.jpg" fill alt="my face3" priority />
             </div>
           </div>
           <SocialTiles />

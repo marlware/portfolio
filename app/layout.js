@@ -17,7 +17,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata = {
-  title: "Sarthak Chauhan",
+  title: "Marl Jonson",
   description:
     "Hey, I'm Sarthak. A third-year Computer Science student who thrives on crafting software from scratch and setting it free in the wild web",
 };

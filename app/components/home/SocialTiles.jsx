@@ -8,7 +8,7 @@ const SocialTiles = () => {
   return (
     <div className="w-full py-2 mt-2 select-none font-geist text-nav">
       <div className="container mx-auto flex justify-start items-center space-x-3">
-        <Link href="https://github.com/Sarthakischauhan" className={baseLink}>
+        <Link href="https://github.com/marlware" className={baseLink}>
           github
           <span className="sr-only">GitHub</span>
         </Link>
@@ -19,20 +19,20 @@ const SocialTiles = () => {
         </Link>
 
         <Link
-          href="https://www.linkedin.com/in/sarthakchauhan01/"
+          href="https://www.linkedin.com/in/marl-jonson/"
           className={baseLink}
         >
           linkedin
           <span className="sr-only">LinkedIn</span>
         </Link>
 
-        <Link href="https://x.com/sarchauhann" className={baseLink}>
+        <Link href="https://x.com/marljonson" className={baseLink}>
           twitter
           <span className="sr-only">Twitter</span>
         </Link>
 
         <Link
-          href="mailto:sarthakchauhann@gmail.com"
+          href="mailto:marl.jonson@comcast.net"
           className={baseLink}
         >
          mail 
